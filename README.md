@@ -5,5 +5,5 @@ Looking forward to meeting you!
 
 Want to know more? Check out the following pages:
 > * [What I do](./pages/about.md) 
-> * [Readings](./pages/readings.md) 
+> * [Something to Read](./pages/readings.md) 
 
