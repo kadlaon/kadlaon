@@ -4,6 +4,6 @@ You are here for a reason, and for whatever reason that is, I'm glad. We may not
 Looking forward to meeting you!
 
 Want to know more? Check out the following pages:
-> * [What I do](./pages/about.md) 
+> * [Things I do](./pages/about.md) 
 > * [Something to Read](./pages/readings.md) 
 
