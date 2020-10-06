@@ -15,7 +15,7 @@
 [4] [Resources for Philippine Languages: Collection, Annotation, and Modeling](https://www.aclweb.org/anthology/Y16-3015 (http://bit.ly/1MpcFoT))
 
 # Neural Machine Translation
-[1] Six Challenges of Neural Machine Translation : Six Challenges for Neural Machine Translation \
+[1] Six Challenges of Neural Machine Translation \
 [2] [How does attention works in Encoder-Decoder RNN](https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/) \
 [3] [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)\
 [4] [Recurrent Continous Translation Models](https://www.aclweb.org/anthology/D13-1176)\
@@ -35,7 +35,7 @@
 # Morphological Analysis
 [1] [Classification](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6) \
 [2] [Workshop on Subword and Character LEvel Models in NLP (2018)](https://aclweb.org/anthology/events/sclem-2018/) \
-[3] [Pushing the limits of low-resource morphological inflection] (https://arxiv.org/pdf/1908.05838.pdf) \
+[3] [Pushing the limits of low-resource morphological inflection](https://arxiv.org/pdf/1908.05838.pdf) \
 [4] [Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings](https://www.aclweb.org/anthology/P18-1114) \
 [5] [Morphological Word Embeddings](https://arxiv.org/pdf/1907.02423.pdf) \
 [6] [Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations]( http://www.cs.cmu.edu/~jgc/publication/Adapting%20Word%20Embeddings%20to%20New%20Languages%20with%20Morphological%20and%20Phonological%20Subword%20Representations.pdf) \
