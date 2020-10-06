@@ -27,12 +27,12 @@
 [10] [What is Neural Machine Translation](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
 
 
-Domain Adaptation for NMT
+# Domain Adaptation for NMT
 [1] [Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination(https://www.aclweb.org/anthology/D18-1041) \
 [2] [A Survey of Domain Adaptation for Neural Machine Translation](https://arxiv.org/pdf/1806.00258.pdf) \
 [3] [Evaluating Domain Adaptation for Machine Translation Across Scenarios](https://www.aclweb.org/anthology/L18-1002)
 
-Morphological Analysis
+# Morphological Analysis
 [1] [Classification](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6) \
 [2] [Workshop on Subword and Character LEvel Models in NLP (2018)](https://aclweb.org/anthology/events/sclem-2018/) \
 [3] [Pushing the limits of low-resource morphological inflection] (https://arxiv.org/pdf/1908.05838.pdf) \
