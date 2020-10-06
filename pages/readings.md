@@ -28,7 +28,7 @@
 
 
 # Domain Adaptation for NMT
-[1] [Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination(https://www.aclweb.org/anthology/D18-1041) \
+[1] [Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination](https://www.aclweb.org/anthology/D18-1041) \
 [2] [A Survey of Domain Adaptation for Neural Machine Translation](https://arxiv.org/pdf/1806.00258.pdf) \
 [3] [Evaluating Domain Adaptation for Machine Translation Across Scenarios](https://www.aclweb.org/anthology/L18-1002)
 
