@@ -1,12 +1,12 @@
 [Sebastian Ruder's Thesis](http://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf)
-Philipp Koehnn: Neural Machine Translation
-Graham Neubig: Neural Machine Translation and Sequence-to-sequence Models:A Tutorial --> https://arxiv.org/pdf/1703.01619.pdf
-TensorFlow Dataset: https://www.tensorflow.org/datasets/overview
-Guide to pre-processing: https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html
-On fixing github issues: https://github.community/t5/How-to-use-Git-and-GitHub/git-clone-is-not-working-for-a-private-repo/td-p/2513
-Word2Vec using numpy: https://github.com/DerekChia/word2vec_numpy
-FastText for Misspellings: https://ai.facebook.com/blog/-a-new-model-for-word-embeddings-that-are-resilient-to-misspellings-/
-Embedding Projector: https://medium.com/@aakashchotrani/visualizing-your-own-word-embeddings-using-tensorflow-688b3a7750ee
+[Philipp Koehnn: Neural Machine Translation (Draft paper)](https://arxiv.org/pdf/1709.07809.pdf)
+[Graham Neubig: Neural Machine Translation and Sequence-to-sequence Models:A Tutorial[(https://arxiv.org/pdf/1703.01619.pdf)
+[TensorFlow Dataset](https://www.tensorflow.org/datasets/overview)
+[Guide to pre-processing](https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html)
+[On fixing github issues](https://github.community/t5/How-to-use-Git-and-GitHub/git-clone-is-not-working-for-a-private-repo/td-p/2513)
+[Word2Vec using numpy](https://github.com/DerekChia/word2vec_numpy)
+[FastText for Misspellings](https://ai.facebook.com/blog/-a-new-model-for-word-embeddings-that-are-resilient-to-misspellings-/)
+[Embedding Projector](https://medium.com/@aakashchotrani/visualizing-your-own-word-embeddings-using-tensorflow-688b3a7750ee)
 
 About Corpus Linguistics
 [1] Why Chomsky was Wrong About Corpus Linguistics : https://corplingstats.wordpress.com/2016/11/02/why-chomsky-was-wrong/
