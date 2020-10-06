@@ -6,25 +6,25 @@
 [On fixing github issues](https://github.community/t5/How-to-use-Git-and-GitHub/git-clone-is-not-working-for-a-private-repo/td-p/2513) \
 [Word2Vec using numpy](https://github.com/DerekChia/word2vec_numpy) \
 [FastText for Misspellings](https://ai.facebook.com/blog/-a-new-model-for-word-embeddings-that-are-resilient-to-misspellings-/) \
-[Embedding Projector](https://medium.com/@aakashchotrani/visualizing-your-own-word-embeddings-using-tensorflow-688b3a7750ee) \
+[Embedding Projector](https://medium.com/@aakashchotrani/visualizing-your-own-word-embeddings-using-tensorflow-688b3a7750ee) 
 
 # About Corpus Linguistics
-[[1] Why Chomsky was Wrong About Corpus Linguistics](https://corplingstats.wordpress.com/2016/11/02/why-chomsky-was-wrong/) \
-[[2] Building a Wikipedia Text Corpus for Natural Language Processing](https://www.kdnuggets.com/2017/11/building-wikipedia-text-corpus-nlp.html) \
-[[3] Developing Linguistic Corpora: A Guide to Good Practice Corpus and Text — Basic Principles](https://ota.ox.ac.uk/documents/creating/dlc/chapter1.htm) \
-[[4] Resources for Philippine Languages: Collection, Annotation, and Modeling](https://www.aclweb.org/anthology/Y16-3015 (http://bit.ly/1MpcFoT))
+[1] [Why Chomsky was Wrong About Corpus Linguistics](https://corplingstats.wordpress.com/2016/11/02/why-chomsky-was-wrong/) \
+[2] [Building a Wikipedia Text Corpus for Natural Language Processing](https://www.kdnuggets.com/2017/11/building-wikipedia-text-corpus-nlp.html) \
+[3] [Developing Linguistic Corpora: A Guide to Good Practice Corpus and Text — Basic Principles](https://ota.ox.ac.uk/documents/creating/dlc/chapter1.htm) \
+[4] [Resources for Philippine Languages: Collection, Annotation, and Modeling](https://www.aclweb.org/anthology/Y16-3015 (http://bit.ly/1MpcFoT))
 
 # Neural Machine Translation
-[1] Six Challenges of Neural Machine Translation : Six Challenges for Neural Machine Translation
-[2] How does attention works in Encoder-Decoder RNN: https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/
-[3] Facebook AI Research Sequence-to-Sequence Toolkit written in Python : https://github.com/pytorch/fairseq
-[4] Recurrent Continous Translation Models: https://www.aclweb.org/anthology/D13-1176
-[5] A Teacher-Student Framework for Zero-Resource Neural Machine Translation: https://arxiv.org/pdf/1705.00753.pdf
-[6] Unsupervised Pivot Translation for Distant Languages: https://www.aclweb.org/anthology/P19-1017
-[7] On Illustrated Transformer: http://jalammar.github.io/illustrated-transformer/
-[8] Fully Character-Level Neural Machine Translation without Explicit Segmentation: https://www.aclweb.org/anthology/Q17-1026
-[9] Intermediate Report: Morphologically Rich Languages: http://www.qt21.eu/wp-content/uploads/2017/07/QT21-D2.1-final.pdf
-[10] What is Neural Machine Translation: https://towardsdatascience.com/neural-machine-translation-15ecf6b0b
+[1] [Six Challenges of Neural Machine Translation : Six Challenges for Neural Machine Translation \
+[2] [How does attention works in Encoder-Decoder RNN](https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/) \
+[3] [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)\
+[4] [Recurrent Continous Translation Models](https://www.aclweb.org/anthology/D13-1176)\
+[5] [A Teacher-Student Framework for Zero-Resource Neural Machine Translation](https://arxiv.org/pdf/1705.00753.pdf)\
+[6] [Unsupervised Pivot Translation for Distant Languages](https://www.aclweb.org/anthology/P19-1017)\
+[7] [On Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)\
+[8] [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://www.aclweb.org/anthology/Q17-1026)\
+[9] [Intermediate Report: Morphologically Rich Languages](http://www.qt21.eu/wp-content/uploads/2017/07/QT21-D2.1-final.pdf)\
+[10] [What is Neural Machine Translation](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
 
 
 Domain Adaptation for NMT
