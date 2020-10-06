@@ -17,7 +17,7 @@ Things I "enjoy" doing? HEHE 👇
      3. Machine Learning \
      4. Natural Language Processing \
      5. Neural Network
-> * My other activities! 👇 \
+> * My other activities I love doing! 👇 \
 \
 <img src="https://i.pinimg.com/originals/24/ae/8d/24ae8def288851503cf68340df174963.gif" width="50" height="40" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREBhQhWl7EEgnJy0wqTybK282u4wysTHpfbw&usqp=CAU" width="50" height="40" /> <img src="https://static.skaip.org/img/emoticons/180x180/f6fcff/running.gif" width="50" height="40" /> <img src="https://i.pinimg.com/originals/92/91/39/929139ee8f61a83136562818209a5791.gif" width="50" height="40" /> 
 
