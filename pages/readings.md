@@ -25,7 +25,8 @@
 [8] [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://www.aclweb.org/anthology/Q17-1026)\
 [9] [Intermediate Report: Morphologically Rich Languages](http://www.qt21.eu/wp-content/uploads/2017/07/QT21-D2.1-final.pdf)\
 [10] [What is Neural Machine Translation](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)\
-[11] [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558)
+[11] [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558)\
+[12] [Improving Neural Machine Translation Models with Monolingual Data](https://www.aclweb.org/anthology/P16-1009.pdf)
 
 
 # Domain Adaptation for NMT
