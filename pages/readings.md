@@ -24,7 +24,8 @@
 [7] [On Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)\
 [8] [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://www.aclweb.org/anthology/Q17-1026)\
 [9] [Intermediate Report: Morphologically Rich Languages](http://www.qt21.eu/wp-content/uploads/2017/07/QT21-D2.1-final.pdf)\
-[10] [What is Neural Machine Translation](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
+[10] [What is Neural Machine Translation](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)\
+[11] [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558)\
 
 
 # Domain Adaptation for NMT
