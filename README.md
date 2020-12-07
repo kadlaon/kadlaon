@@ -5,7 +5,7 @@ You are here for a reason, and for whatever reason that is, I'm glad. 🥂 I'm h
     👩‍🏫 University Professor \
     🤓     Researcher / Woman Techmaker \
     👩‍🎓 Student \
-    👩‍💻 Tech Community Volunteer \
+    👩‍💻 Volunteer \
     🧝‍♀️   Daughter, Sister, Friend, Colleague, Follower, Leader
     
 > *  Research and Development Works 💪
