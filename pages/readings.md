@@ -6,7 +6,8 @@
 [On fixing github issues](https://github.community/t5/How-to-use-Git-and-GitHub/git-clone-is-not-working-for-a-private-repo/td-p/2513) \
 [Word2Vec using numpy](https://github.com/DerekChia/word2vec_numpy) \
 [FastText for Misspellings](https://ai.facebook.com/blog/-a-new-model-for-word-embeddings-that-are-resilient-to-misspellings-/) \
-[Embedding Projector](https://medium.com/@aakashchotrani/visualizing-your-own-word-embeddings-using-tensorflow-688b3a7750ee) 
+[Embedding Projector](https://medium.com/@aakashchotrani/visualizing-your-own-word-embeddings-using-tensorflow-688b3a7750ee) \
+[Tokenizers: How Machines Read](https://blog.floydhub.com/tokenization-nlp/#wordpiece)
 
 # About Corpus Linguistics
 [1] [Why Chomsky was Wrong About Corpus Linguistics](https://corplingstats.wordpress.com/2016/11/02/why-chomsky-was-wrong/) \
