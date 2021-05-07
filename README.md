@@ -15,7 +15,7 @@ You are here for a reason, and for whatever reason that is, I'm glad. 🥂 I'm h
      2. Python Web Stuff \
      3. Machine Learning \
      4. Natural Language Processing \
-     5. Neural Network\
+     5. Neural Network
      
 > * [BLOG | Updates](./pages/blog.md)
 
