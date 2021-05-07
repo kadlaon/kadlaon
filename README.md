@@ -8,8 +8,7 @@ You are here for a reason, and for whatever reason that is, I'm glad. 🥂 I'm h
     👩‍💻 Volunteer \
     🧝‍♀️   Daughter, Sister, Friend, Colleague, Follower, Leader
     
-> *  Research and Development Works 💪 \
-     
+> *  Research and Development Works 💪 
 > * [Things to Read 🥱](./pages/readings.md) 
 > *  Codes \
      1. Python Programming \
